@@ -1,0 +1,99 @@
+{
+    "aboutme": {
+        "name": "Nicolay Giraldo Barrientos",
+        "email": "darwingiraldo0304@gmail.com",
+        "github": "github.com/DaroDax",
+        "instagram": "instagram.com/dx.tattoo/",
+        "linkedin": "linkedin.com/in/nicolay-giraldo-27b842195/",
+        "cellphone": {
+            "sim1": "+57 302 7490686",
+            "sim2": "+57 350 6122944"
+        },
+        "titles": {
+            "main": "Programador",
+            "sub": "Diseñador",
+            "int": "Desarrollador Web"
+        },
+        "description": "Programador con mayor experiencia web. Frontend y Backend, y diseño de logos, post e ilustraciones y maquetacion web con HTML con responsive y buen diseño con BOOTSRAP, CSS ó SASS. Manejo y organización de base de datos MySQL y MongoDB. "
+    },
+
+    "programs": {
+        "hab1": "HTML",
+        "por1": "96%",
+        "hab2": "CSS",
+        "por2": "70%",
+        "hab3": "JAVASCRIPT",
+        "por3": "55%",
+        "hab4": "PHP",
+        "por4": "45%",
+        "hab5": "MYSQL",
+        "por5": "90%",
+        "hab6": "JAVA",
+        "por6": "80%",
+        "hab7": "PYTHON",
+        "por7": "20%"
+    },
+
+    "design": {
+        "hab1": "PHOTOSHOP",
+        "hab2": "ILLUSTRATOR",
+        "hab3": "COREL DRAW",
+        "hab4": "CANVA",
+        "hab5": "FIGMA"
+    },
+
+    "idiomas":{
+        "primary":"Español",
+        "secondary":"Ingles B1"
+    },
+
+    "education":{
+        "car1":{
+            "title":"Bachiller",
+            "site":"Coorporación Educativa Ocupacional CEO"
+        },
+        "car2":{
+            "title":"Programación y Sistemas",
+            "site":"Coorporación Educativa Ocupacional CEO"
+        },
+        "car3":{
+            "title":"Diseñador Grafico",
+            "site":"Coorporación Educativa Ocupacional CEO"
+        },
+        "car4":{
+            "title":"Cisco CCNA ROUTING & SWITCHING",
+            "site":"Universidad Nacional Experimental Del Tachira UNET"
+        },
+        "car5":{
+            "title":"Profesional De Desarrollo Web",
+            "site":"Codigo Facilito Aprende Desde 0"
+        },
+        "car6":{
+            "title":"Profesional De JAVA",
+            "site":"Codigo Facilito Aprende Desde 0"
+        }
+    },
+
+    "experiences":{
+        "work1":{
+            "position":"Desarrollador WEB",
+            "company":"PROAUDIO AUTOSPA",
+            "time":"2017 - 2019",
+            "description":"Diseño de logo, creación de sitio web con sistema de ventas incluido, manejo de redes sociales y marketing"
+        },
+        "work2":{
+            "position":"Desarrollador, Creador y Diseñador",
+            "company":"QKIERE.COM",
+            "time":"2020 - 2021",
+            "description":"Sitio web de domicilios, interfaz one page, con consultas en tiempo real a la base de datos por medio de AJAX"
+        },
+        "work3":{
+            "position":"Programador Tecnico",
+            "company":"INTERCOD CA",
+            "time":"2020 - 2022",
+            "description":"Desarrollo, mejora y mantenimiento del sistema de pagos, suspension de clientes por medio de la API de Mikrotik, instalación de redes y tecnico de computadoras."
+        }
+    }
+}
+
+

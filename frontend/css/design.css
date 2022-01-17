@@ -1,0 +1,38 @@
+.line-right{
+    display:grid;
+    grid-template-columns:3fr 1fr;
+    align-items: center;
+    justify-items: center;
+}
+
+.line-left{
+    display:grid;
+    grid-template-columns:1fr 3fr;
+    align-items: center;
+    justify-items: center;
+    grid-gap:15px;
+}
+
+.logo-box{
+    width:240px;
+    height:240px;
+    padding:20px;
+    background-color:#fff;
+    border-radius:10px;
+}
+
+.text-left{
+    text-align: right;
+}
+
+.logo-img{
+    width:100%;
+}
+
+@media (min-width:240px) and (max-width:960px){
+    .logo-box{
+        width:180px;
+        height:180px;
+        padding:10px;
+    }
+}

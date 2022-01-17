@@ -1,0 +1,35 @@
+.qkiere-img, .wisp-img, .gif-img, .chat-img{
+    width: 100%;
+    border-radius:10px;
+}
+
+
+.img-spaced {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+
+.img-same{
+    box-shadow: #afafaf 16px 11px 7px;
+    width:80%;
+}
+
+.img-one{
+    box-shadow: #afafaf 16px 11px 7px;
+    width:100%;
+}
+
+.info-pro {
+    display: grid;
+    align-content: center;
+}
+
+@media (min-width:240px) and (max-width:960px){
+    .img-same{
+        width:100%;
+    }
+
+    
+}
